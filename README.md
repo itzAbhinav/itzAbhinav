@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="Devices" src="https://github.com/user-attachments/assets/a6a45c9a-e31b-467f-ab84-3298bef5bdf8" />
+  <img width="100%" alt="Profile_img" src="Github_Profile_Readme.jpg" />
 </p>
 
 <!-- Title -->
