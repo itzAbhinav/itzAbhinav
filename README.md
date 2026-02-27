@@ -1,5 +1,5 @@
 ## Hi folks 👾
-- 🧑‍💻 Work Experiance: I have worked as a Project Trainee in Indian Space Research Center and now currently working as a System Engineer in Tata Consulatancy Services Ltd.
+- 🧑‍💻 Work Experiance: I have worked as a Project Trainee in Indian Space Research Center and worked as a System Engineer in Tata Consulatancy Services Ltd. Now I am currently pursing my Masters of Artificial Intelligence at Monash University, Clayton campus.
 - 🌱 I’m currently learning ML based modules in python and how to implement in ML models.
 <!--
 **itzAbhinav/itzAbhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
