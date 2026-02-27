@@ -46,10 +46,12 @@
 <p align="center">
   🔐 <b>Cloud Security & Data Integrity using Blockchain</b><br>
   Implemented blockchain-based integrity verification using Merkle Trees.<br><br>
-
+</p>
+<p align="center">
   📊 <b>Churn Prediction System</b><br>
   Built ML models (MLP, Naive Bayes, XGBoost) improving prediction accuracy.<br><br>
-
+</p>
+<p align="center">
   🎬 <b>Movie Recommender System</b><br>
   Developed neural collaborative filtering model using PyTorch with high precision.
 </p>
