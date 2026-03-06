@@ -69,7 +69,7 @@
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  📧 abhisathya2k@gmail.com <br>
+  📧 <a href = "https://mail.google.com/mail/u/0/#inbox">abhisathya2k@gmail.com </a><br>
   🔗 <a href="https://www.linkedin.com/in/abhinav-s-04114222a/">LinkedIn</a> <br>
   💻 <a href="https://github.com/itzAbhinav">GitHub</a>
 </p>
