@@ -74,9 +74,3 @@
   💻 <a href="https://github.com/itzAbhinav">GitHub</a>
 </p>
 
-<!-- Interests -->
-<h3 align="center">🎯 Interests</h3>
-
-<p align="center">
-  🏸 Badminton | ♟️ Chess | 🎨 Doodling | 🎵 Listening to Music
-</p>
