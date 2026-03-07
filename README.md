@@ -1,6 +1,6 @@
 <p align="center">
   <img width="100%" alt="Profile_img" src="Github_Profile_Readme.jpg" />
-</p>
+</p> 
 
 <!-- Title -->
 <h1 align="center">
